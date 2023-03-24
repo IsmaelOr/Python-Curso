@@ -1,9 +1,0 @@
-{
-    "editor.fontSize": 20,
-    "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "code-runner.executorMap":{
-        "python":
-        "C:\\Users\\ismae\\Documents\\Python-Curso\\Scripts\\activate.bat && python -u",
-    }
-}
