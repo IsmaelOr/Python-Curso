@@ -99,3 +99,13 @@ impares = tuple([1,3,5])
 print('Tipo de datos de la variable numeros:', type(impares))
 print('Cantidad de elementos de la tupla:', len(impares))
 print('Contenido:', impares)
+
+print()
+
+### Operaciones básicas que provee la clase `tuple`
+print('Operaciones o métodos que provee la clase `tuple`')
+colores = ('Negro', 'Blanco', 'Negro', 'Azul', 'Negro', 'Rojo', 'Verde')
+print(colores.count('Negro'))
+print(colores.count('negro')) ## Hace distinción entre mayusculas y minusculas
+print(colores.index('Rojo'))
+print(colores.index('Negro'))
